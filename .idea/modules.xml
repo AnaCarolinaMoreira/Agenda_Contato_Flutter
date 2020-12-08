@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Agenda_Contato_Flutter.iml" filepath="$PROJECT_DIR$/Agenda_Contato_Flutter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agenda_contatos/agenda_contatos.iml" filepath="$PROJECT_DIR$/agenda_contatos/agenda_contatos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agenda_contatos/android/app/src/debug/debug.iml" filepath="$PROJECT_DIR$/agenda_contatos/android/app/src/debug/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agenda_contatos/android/app/src/profile/profile.iml" filepath="$PROJECT_DIR$/agenda_contatos/android/app/src/profile/profile.iml" />
+    </modules>
+  </component>
+</project>

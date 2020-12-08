@@ -1,10 +1,11 @@
-import 'package:br/ui/contact_page.dart';
 import 'package:flutter/material.dart';
-import 'ui/home_page.dart';
 
-void main (){
+import 'image_teste.dart';
+
+
+void main() {
   runApp(MaterialApp(
-  home: HomePage(),
+    home:  ImageTeste(),
     debugShowCheckedModeBanner: false,
   ));
 }
